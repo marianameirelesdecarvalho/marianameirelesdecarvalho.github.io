@@ -1,0 +1,65 @@
+.img-size { 
+width: 60%;  
+}
+
+body {
+    color: #60666B;
+    font-family: "andale mono";
+}
+
+.white-background {
+	background-color: white;
+}
+
+.heading-color {
+	color: #2D878A;
+}	
+
+.color-black{
+	color: black;
+}
+
+.img-circle {
+    border-radius: 100%;
+    border: 2px;
+}    
+
+.nome {
+	font-size:21;
+	color: black;
+}	
+.stars {
+    float: right;
+    display: inline-block;
+}
+
+.test {
+  
+    display: inline-block;
+
+}
+
+
+
+.rcorners2 {
+    border-radius: 7px;
+    border: 1px solid #838B91;
+      
+}
+
+.all-content{
+    border-radius: 7px;
+    border: 1px solid #838B91;
+    background-color: white;
+    padding: 5px;
+  }  
+
+.bold{
+    font-weight: 600;
+    font-size:15;
+}
+
+.fixed {
+  position: fixed;
+  
+}

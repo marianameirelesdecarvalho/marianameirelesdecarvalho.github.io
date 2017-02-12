@@ -1,0 +1,40 @@
+.imageback { 
+	background: url("../img/travelbackground.gif") no-repeat center center fixed; 	
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.navbar a {
+	color: #333333;
+	font-weight: 700
+}
+
+.navbar {
+	background-color: grey;
+	opacity: 0.9
+}	
+	
+.heading {
+	font-family:"andale mono"; 
+	font-size:350%;
+	color: #333333;
+	position: relative;
+	top: 200px;
+	font-weight: 900
+}	
+
+.heading1 {
+	font-family:"andale mono"; 
+	font-size:250%;
+	color: #333333;
+	position: relative;
+	top: 200px;
+}	
+
+.button {
+	position: relative;
+	top: 300px;
+	font-family: "andale mono";
+	color-font:#333333;
