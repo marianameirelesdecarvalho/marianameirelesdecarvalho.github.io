@@ -39,7 +39,14 @@ body {
 
 }
 
+.row {
+    margin-top: 10px;
+}
 
+.quote {
+    font-size: 20px;
+    font-family: "andale mono";
+}
 
 .rcorners2 {
     border-radius: 7px;
@@ -59,7 +66,68 @@ body {
     font-size:15;
 }
 
+
 .fixed {
   position: fixed;
-  
+  bottom: 0;
+  right: 0;
+  width: 200px;
+  background-color: white;
 }
+
+.information{
+    height: 90vh;
+    overflow: scroll;
+}    
+
+.photoquadro {
+    max-width: 100%   
+} 
+
+
+
+.seta {
+    width: 10px;
+    lenght: 10px; 
+ }   
+
+
+
+.perfil{ 
+ webkit-filter: none;
+   moz-filter: none;
+   -ms-filter: none;
+   filter: none;
+}
+
+
+.thumb1 { 
+background: url(blah.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+width: 250px;
+height: 250px;
+}
+
+.titles30 {
+    font-size: 30;
+}    
+
+.indice {
+    color: black;
+}
+.novo {
+  font-size: 20;
+ } 
+
+.novo2 {
+  font-size: 25;
+ } 
+
+ .novo1 {
+  font-size: 35;
+ }
+ .novo3 {
+  font-size: 15;
+ }
+ .novo4 {
+  font-size: 10
+ }
